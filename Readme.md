@@ -19,6 +19,8 @@ platform using 100K+ real transactions across 8 relational tables.
 - `sql/` — 20 analytical queries: revenue KPIs, delivery performance,
   seller rankings, payment analysis, review quality scoring
 - `dashboard/` — 4-page interactive Tableau dashboard
+  cross-filter interactivity on Page 2 (clicking any state 
+  highlights it across all 4 charts simultaneously)
 
 ---
 
